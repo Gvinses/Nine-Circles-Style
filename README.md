@@ -2,6 +2,9 @@
 <h3>Here you must write everything in one line. Without spaces</h3>
 <h3>In file style.nc</h3>
 <h3>npm i nine-circles</h3>
+<h3>node ncc.js .\style.nc main</h3>
+<h4>(1 arg) "style.nc" main what you write by Nine Circles Style.</h4>
+<h4>(2 arg) "main" :optional: name of file in what will style.nc compile (main.css). (if nothing => same name as first argument)</h4>
 
 <br>
 
