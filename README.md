@@ -1,6 +1,7 @@
 <h1>Nine Circles Style - is CSS Esoteric  extension language. </h1>
 <h3>Here you must write everything in one line. Without spaces</h3>
 <h3>In file style.nc</h3>
+<h3>npm i nine-circles</h3>
 
 <br>
 
